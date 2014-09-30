@@ -16,7 +16,7 @@ import edu.wlu.cs.levy.CG.KDTree;
 import edu.wlu.cs.levy.CG.KeyDuplicateException;
 import edu.wlu.cs.levy.CG.KeySizeException;
 
-public class stainedGlassFilter {
+public class stainedGlassFilter{
 
 	
 	public static void main(String[] args)  {
@@ -76,7 +76,6 @@ public class stainedGlassFilter {
 	}
 	
 		
-	
 	public static void threadPoolSetup(PictureForChange picture, ExecutorService threadPool, int threadCount, int width){
 		
 		int startRow = 0;
