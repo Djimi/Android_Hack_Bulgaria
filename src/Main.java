@@ -16,11 +16,8 @@ import edu.wlu.cs.levy.CG.KDTree;
 import edu.wlu.cs.levy.CG.KeyDuplicateException;
 import edu.wlu.cs.levy.CG.KeySizeException;
 
-public class Main {
+public class stainedGlassFilter {
 
-	//36
-	
-	Main main = new Main();
 	
 	public static void main(String[] args)  {
 		
